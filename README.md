@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Linux and Frontend Development**
 
-- 📫 How to reach me **hatkardhruv@gmail.com**
+- 📫 How to reach me <a href="slipstream8125@proton.me">**slipstream8125@proton.me**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
