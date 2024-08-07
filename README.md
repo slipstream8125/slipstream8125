@@ -20,3 +20,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slipstream8125&theme=dark" alt="slipstream8125" /></p>
 
 [![An image of @slipstream8125's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/slipstream8125)](https://holopin.io/@slipstream8125)
+
+![Snake animation](https://github.com/slipstream8125/slipstream8125/blob/output/github-contribution-grid-snake.svg)
