@@ -27,4 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slipstream8125&show_icons=true&theme=tokyonight&locale=en" alt="slipstream8125" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slipstream8125&theme=default" alt="slipstream8125" /></p>
+
 [![An image of @slipstream8125's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/slipstream8125)](https://holopin.io/@slipstream8125)
